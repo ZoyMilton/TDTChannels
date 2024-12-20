@@ -647,6 +647,16 @@
 | Oromar TV Ecuador | [m3u8](https://stream.oromar.tv/hls/oromartv_hi/index.m3u8) | [web](https://oromartv.com/tv-en-vivo/) | [logo](https://pbs.twimg.com/profile_images/1744385079093190704/Vm5ARMBs_200x200.jpg) | - | EMB |
 | Bolivia 7.1 TV | [m3u8](https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8) | [web](https://www.boliviatv.bo/principal/vivo71.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | W3U,EXTA |
 | Bolivia 7.2 TV | [m3u8](https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8) | [web](https://www.boliviatv.bo/principal/vivo72.php) | [logo](https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200) | - | W3U,EXTA |
+| ZoyTV Turcas | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Plus | [m3u8](https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Kids | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvkids/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Family | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvfamily/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Music | [m3u8](https://is.gd/aOam0G) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Sports 1 HD | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Sports 2 HD | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Sports 3 HD | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Sports 4 HD | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
+| ZoyTV Sports 5 HD | [m3u8](https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8) | [web](https://tv.zoymilton.com) | [logo](https://i.ibb.co/hxzjjS7/favicon.png) | - | W3U,EXTA |
 | Red Pat Bolivia | [m3u8](https://glb.bozztv.com/glb/ssh101/pattv/index.m3u8) | [web](https://www.redpat.tv/envivoscz) | [logo](https://graph.facebook.com/patboliviahd/picture?width=200&height=200) | - | - |
 | Cubavisión TV | [m3u8](https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8) | [web](https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true) | [logo](https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200) | Cubavision.TV | REF,NONAV |
 | CDN 37 República Dominicana | - | [web](https://cdn.com.do/envivo/) | [logo](https://graph.facebook.com/cdn.com.do/picture?width=200&height=200) | - | W3U,EXTA |
