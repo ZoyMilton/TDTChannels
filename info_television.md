@@ -169,6 +169,17 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Shadoune666 | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Kings League | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
 | Gerard Romero | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+| ZoyTV Plus | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Family | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Kids | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Music | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Turcas | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 1 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 2 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 3 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 4 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 5 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+
 
 ## Autonómicos
 
@@ -671,6 +682,16 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Oromar TV Ecuador | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Bolivia 7.1 TV | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
 | Bolivia 7.2 TV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| ZoyTV Plus | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Family | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Kids | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Music | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Turcas | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 1 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 2 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 3 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 4 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
+| ZoyTV Sports 5 HD | ▶ | ▶ | ✔ | ✔ | ✔ | ✔ | ▶ | Disponible para iOS y Android TV |
 | Red Pat Bolivia | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
 | Cubavisión TV | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | CDN 37 República Dominicana | ✔ | 🌐 | 🌐 | ❌ | ❌ | ❌ | ✔ | - |
@@ -692,6 +713,7 @@ Estos canales emiten a ciertas horas del día, únicamente.
 | Record News Brasil | ▶ | ▶ | ✔ | ❌ | ❌ | ❌ | ▶ | - |
 | Rede Massa Brasil | ✔ | ✔ | 🌐 | ✔ | ✔ | ✔ | ✔ | - |
 | Trinidad and Tobago Television | ▶ | 🌐 | ✔ | ❌ | ❌ | ❌ | ▶❗ | No disponible para W3U en Android TV |
+
 
 ## Int. Asia
 
